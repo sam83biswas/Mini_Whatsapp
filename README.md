@@ -1,7 +1,7 @@
 # Mini_Whatsapp
 
 
-Project Structure
+**Project Structure**
 
 - models/
   - chat.js  # Mongoose schema for chat messages
@@ -15,21 +15,27 @@ Project Structure
 
 
 
-Routes
+**Routes**
 
 HTTP Method    Route          Description
+
 Get            /chats         View all chat messages
+
 Get          /chats/new       Form to create a new chat
+
 Post         /chats           Create a new chat message
+
 Get          /chats/:id/edit  Form to edit a specific chat
+
 Put          /chats/:id       Update a specific chat message
+
 Delete       /chats/:id       Delete a specific chat message
 
 
 
 
 
-Technologies Used
+**Technologies Used**
 
 Backend: Node.js, Express.js
 
@@ -41,14 +47,14 @@ Frontend: EJS (Embedded JavaScript) for templating
 
 
 
-Contributing
+**Contributing**
 
 Feel free to fork this repository and submit pull requests to improve the application.
 
 
 
 
-License
-
+**License
+**
 This project is licensed under the MIT License.
 
