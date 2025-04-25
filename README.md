@@ -17,19 +17,19 @@
 
 **Routes**
 
-HTTP Method    Route          Description
+HTTP Method        Route                      Description
 
-Get            /chats         View all chat messages
+Get              /chats                   View all chat messages
 
-Get          /chats/new       Form to create a new chat
+Get            /chats/new                 Form to create a new chat
 
-Post         /chats           Create a new chat message
+Post             /chats                     Create a new chat message
 
-Get          /chats/:id/edit  Form to edit a specific chat
+Get            /chats/:id/edit            Form to edit a specific chat
 
-Put          /chats/:id       Update a specific chat message
+Put            /chats/:id                 Update a specific chat message
 
-Delete       /chats/:id       Delete a specific chat message
+Delete         /chats/:id                 Delete a specific chat message
 
 
 
@@ -53,8 +53,4 @@ Feel free to fork this repository and submit pull requests to improve the applic
 
 
 
-
-**License
-**
-This project is licensed under the MIT License.
 
