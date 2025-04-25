@@ -17,7 +17,7 @@
 
 **Routes**
 
-HTTP Method        Route                      Description
+HTTP_Method        Route                      Description
 
 Get              /chats                   View all chat messages
 
