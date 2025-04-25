@@ -27,17 +27,25 @@ Delete       /chats/:id       Delete a specific chat message
 
 
 
+
+
 Technologies Used
 
 Backend: Node.js, Express.js
+
 Database: MongoDB, Mongoose
+
 Frontend: EJS (Embedded JavaScript) for templating
+
+
 
 
 
 Contributing
 
 Feel free to fork this repository and submit pull requests to improve the application.
+
+
 
 
 License
